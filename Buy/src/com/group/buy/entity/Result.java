@@ -1,6 +1,19 @@
 package com.group.buy.entity;
 
 public class Result {
+	
+	public Result(){
+		
+	}
+	public Result(int a){
+		
+	}
+	public Result(String a){
+		
+	}
+	public Result(String a,int b){
+		
+	}
 
 	private int totalSize;
 	private Store[] storeList;
